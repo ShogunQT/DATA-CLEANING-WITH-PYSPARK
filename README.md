@@ -36,7 +36,10 @@ No missing (null) values
 No duplicate records
 
 # OUTCOME SCREENSHOTS
-https://github.com/ShogunQT/DATA-CLEANING-WITH-PYSPARK/issues/1#issue-3603683349
+<img width="1920" height="704" alt="Image" src="https://github.com/user-attachments/assets/5692307e-2c77-4bfa-a9d8-1db1051e221b" />
+<img width="1920" height="856" alt="Image" src="https://github.com/user-attachments/assets/63376364-3105-4b3f-8f78-894158b9695a" />
+<img width="1920" height="863" alt="Image" src="https://github.com/user-attachments/assets/a60ad790-2876-47ba-b914-87c03677f0a3" />
+<img width="1920" height="863" alt="Image" src="https://github.com/user-attachments/assets/cb615249-fb3d-4db6-9bf2-398bef65d77f" />
 
 
 
